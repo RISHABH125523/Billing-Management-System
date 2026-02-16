@@ -24,14 +24,18 @@ Open Main.java
 Right-click → Run
 Console window will open
 🧾 How to Use the Program
+
 Add Item
 Choose: 1
 Enter item name, quantity, price
+
 Delete Item
 Choose: 2
+
 Enter item name
 Print Bill
 Choose: 3
+
 Pay and Exit
 Choose: 4
 Program calculates:
@@ -39,6 +43,8 @@ Subtotal
 CGST (9%)
 SGST (9%)
 Grand Total
+
+
 🖥 Sample Output
 1 Add Item
 2 Delete Item
