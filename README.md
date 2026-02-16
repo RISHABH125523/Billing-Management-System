@@ -2,7 +2,7 @@
 
 This project is a console-based billing system built using Java + MySQL with GST calculation.
 
-✅ Features
+# ✅ Features
 Add item to bill
 Update quantity automatically
 Delete item
