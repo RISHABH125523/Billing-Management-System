@@ -11,7 +11,9 @@ GST calculation (CGST 9% + SGST 9%)
 Store final bill in MySQL
 Clear bill after payment
 
-📦 Project Structure
+# 📦 Project Structure
+
+
 BillingProject
 │
 ├── DBConnection.java
@@ -19,11 +21,11 @@ BillingProject
 └── Main.java
 
 
-▶️ Run the Program
+# ▶️ Run the Program
 Open Main.java
 Right-click → Run
 Console window will open
-🧾 How to Use the Program
+# 🧾 How to Use the Program
 
 Add Item
 Choose: 1
@@ -45,7 +47,7 @@ SGST (9%)
 Grand Total
 
 
-🖥 Sample Output
+# 🖥 Sample Output
 1 Add Item
 2 Delete Item
 3 Print Bill
