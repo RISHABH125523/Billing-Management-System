@@ -29,7 +29,9 @@ Console window will open
 
 Add Item
 Choose: 1
-Enter item name, quantity, price
+Enter item name,
+quantity, 
+price
 
 Delete Item
 Choose: 2
@@ -70,12 +72,12 @@ Choose: 4
 
 ------ FINAL BILL ------
 
-Item    Qty   Price   Total
+Item    Qty      Price       Total
 
 
-Rice     2   50.00   100.00
-
-Oil      1  150.00   150.00
+Rice     2       50.00       100.00
+ 
+Oil      1       150.00      150.00
 
 Subtotal : 250.0
 
