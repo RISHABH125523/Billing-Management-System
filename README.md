@@ -49,9 +49,13 @@ Grand Total
 
 # 🖥 Sample Output
 1 Add Item
+
 2 Delete Item
+
 3 Print Bill
+
 4 Pay & Exit
+
 Choose: 1
 Item Name: Rice
 Quantity: 2
