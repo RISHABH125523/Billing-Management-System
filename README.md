@@ -69,12 +69,20 @@ Price: 150
 Choose: 4
 
 ------ FINAL BILL ------
+
 Item    Qty   Price   Total
+
+
 Rice     2   50.00   100.00
+
 Oil      1  150.00   150.00
 
 Subtotal : 250.0
+
 CGST 9%  : 22.5
+
 SGST 9%  : 22.5
+
 TOTAL    : 295.0
+
 Payment Done. Thank You!
