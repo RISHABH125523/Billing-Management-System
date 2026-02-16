@@ -1,4 +1,4 @@
-🧾 Java + MySQL Billing Management System 
+#🧾 Java + MySQL Billing Management System 
 
 This project is a console-based billing system built using Java + MySQL with GST calculation.
 
